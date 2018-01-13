@@ -15,7 +15,7 @@
 * The Customer Centered Innovation Map
 * Giving Customers a Fair Hearing
 * Why the Lean Start-up Changes Everything
-
+* Rocket Fuel: Measuring the Effectiveness of Online Advertising
 
 ### Done cases: 
 * Yale University Investments Office
@@ -25,3 +25,6 @@
 * Airbnb, Etsy, Uber: Acquiring the First Thousand Customers
 * Customer Discovery and Validation for Entrepreneurs (HBS No. 812-097)
 * Customer Visits for Entrepreneurs 
+* A Primer on Programmatic Advertising
+
+
