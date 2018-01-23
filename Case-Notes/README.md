@@ -26,5 +26,5 @@
 * Customer Discovery and Validation for Entrepreneurs (HBS No. 812-097)
 * Customer Visits for Entrepreneurs 
 * A Primer on Programmatic Advertising
-
+* Yelp
 
