@@ -27,4 +27,4 @@
 * Customer Visits for Entrepreneurs 
 * A Primer on Programmatic Advertising
 * Yelp
-
+* Airbnb: A disruptive innovator
