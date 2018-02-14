@@ -33,4 +33,4 @@
 * Presidio Solutions
 * Amelia Rogers Tassoni Communications
 * Raymond James Financial
-
+* Uber: 21st century tech confronts 20th century regulation
