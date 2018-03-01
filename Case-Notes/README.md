@@ -35,5 +35,5 @@
 * Raymond James Financial
 * Uber: 21st century tech confronts 20th century regulation
 * Monica Ashley - lessons from a determined influencer
-
+* Zynga (A)
 
