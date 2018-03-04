@@ -37,3 +37,5 @@
 * Monica Ashley - lessons from a determined influencer
 * Zynga (A)
 * Keith Ferrazzi
+* Vocera Communications
+
