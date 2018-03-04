@@ -36,4 +36,4 @@
 * Uber: 21st century tech confronts 20th century regulation
 * Monica Ashley - lessons from a determined influencer
 * Zynga (A)
-
+* Keith Ferrazzi
