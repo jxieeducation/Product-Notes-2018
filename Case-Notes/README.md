@@ -7,7 +7,6 @@
 
 
 ### To do:
-* Robin Chase ZipCar and an innocent Discovery
 * Joe Casey (https://hbr.org/product/joe-casey-january-2000/801155-PDF-ENG)
 * Scaling a Startup: Pacing Issues (HBS No. 812-099)
 * Hypotheses-Driven Entrepreneurship: The Lean Startup
