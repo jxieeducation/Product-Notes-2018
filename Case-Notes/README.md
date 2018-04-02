@@ -41,3 +41,4 @@
 * Cisco Systems - managing GTM evolution
 * Hypothesis-Driven Entrepreneurship
 * Netflix Leading with Data
+* OptiGen
