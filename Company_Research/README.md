@@ -1,3 +1,4 @@
+* https://www.investordeck.com/company/
 
 ### To Do
 * DocuSign
@@ -5,5 +6,6 @@
 
 ### Done
 * Spotify
+* Crocs
 
 
