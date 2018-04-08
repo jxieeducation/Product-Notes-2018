@@ -3,9 +3,10 @@
 ### To Do
 * DocuSign
 * Bilibili
+* Scripted
+* Stubhub
+* Public Storage
 
 ### Done
 * Spotify
 * Crocs
-
-

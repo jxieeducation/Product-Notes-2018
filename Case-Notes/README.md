@@ -43,4 +43,4 @@
 * Netflix Leading with Data
 * OptiGen
 * Angels and Venture Capitalists - For Serious Outside Equity
-
+* Arrow Electronics
