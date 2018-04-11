@@ -44,3 +44,5 @@
 * OptiGen
 * Angels and Venture Capitalists - For Serious Outside Equity
 * Arrow Electronics
+* A note on Pre-money and Post-money valuation
+* Crowdfunding - A tale of two campaigns
