@@ -46,3 +46,5 @@
 * Arrow Electronics
 * A note on Pre-money and Post-money valuation
 * Crowdfunding - A tale of two campaigns
+* Veritas - Integrating sales forces
+
