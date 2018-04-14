@@ -48,3 +48,6 @@
 * Crowdfunding - A tale of two campaigns
 * Veritas - Integrating sales forces
 * Jeffrey Sonnenfeld (A): The Fall from Grace
+* Selling as a Systematic Process
+* Stripe: increasing the GDP of the internet
+
