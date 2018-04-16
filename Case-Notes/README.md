@@ -50,4 +50,8 @@
 * Jeffrey Sonnenfeld (A): The Fall from Grace
 * Selling as a Systematic Process
 * Stripe: increasing the GDP of the internet
+* Centra Software
+* Deployment, Focus, and Measuring Effectiveness
+* Designing Channels of Distribution
+* Qualtrics: Scaling an inside-sales organization
 
