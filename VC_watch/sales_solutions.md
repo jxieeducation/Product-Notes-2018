@@ -5,4 +5,6 @@
 	* RFP are when a company asks people in industry for proposals to buy their product
 	* Loop.io makes responding to them easier 
 	* industries include: sales, security?
-
+* Drift
+	* chatbots for for sales 
+* 
