@@ -55,3 +55,5 @@
 * Designing Channels of Distribution
 * Qualtrics: Scaling an inside-sales organization
 * Mercado
+* Fitbit: the Business about wrist
+
