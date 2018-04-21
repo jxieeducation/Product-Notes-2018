@@ -54,4 +54,4 @@
 * Deployment, Focus, and Measuring Effectiveness
 * Designing Channels of Distribution
 * Qualtrics: Scaling an inside-sales organization
-
+* Mercado
