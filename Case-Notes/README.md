@@ -20,11 +20,7 @@
 * Yale University Investments Office
 * ZipCar Refining the Business Model
 * Blockchain Entrepreneurship Opportunities in the Practices of the Unbanked
-* Business Model Analysis for Entrepreneurs
 * Airbnb, Etsy, Uber: Acquiring the First Thousand Customers
-* Customer Discovery and Validation for Entrepreneurs (HBS No. 812-097)
-* Customer Visits for Entrepreneurs 
-* A Primer on Programmatic Advertising
 * Yelp
 * Airbnb: A disruptive innovator
 * Atlassian: Sales
@@ -39,21 +35,14 @@
 * Vocera Communications
 * Natureview Farm
 * Cisco Systems - managing GTM evolution
-* Hypothesis-Driven Entrepreneurship
 * Netflix Leading with Data
 * OptiGen
-* Angels and Venture Capitalists - For Serious Outside Equity
 * Arrow Electronics
-* A note on Pre-money and Post-money valuation
 * Crowdfunding - A tale of two campaigns
 * Veritas - Integrating sales forces
 * Jeffrey Sonnenfeld (A): The Fall from Grace
-* Selling as a Systematic Process
 * Stripe: increasing the GDP of the internet
 * Centra Software
-* Deployment, Focus, and Measuring Effectiveness
-* Designing Channels of Distribution
 * Qualtrics: Scaling an inside-sales organization
 * Mercado
 * Fitbit: the Business about wrist
-
