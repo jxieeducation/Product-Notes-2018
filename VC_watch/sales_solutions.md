@@ -7,4 +7,8 @@
 	* industries include: sales, security?
 * Drift
 	* chatbots for for sales 
-* 
+* SalesHero
+	* AI assistant for reps
+	* updates salesforce
+	* mines for prospects based on existing
+	* predicts close dates
