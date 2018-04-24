@@ -10,4 +10,6 @@
 * Deployment, Focus, and Measuring Effectiveness
 * Designing Channels of Distribution
 * Brand Equity: An Overview
+* Branding in B2B World
+* Figuring Out The Delicate Art Of Positioning Your Startup
 
