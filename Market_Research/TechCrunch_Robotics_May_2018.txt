@@ -1,0 +1,54 @@
+ROS session
+============
+ROS 
+http://gazebosim.org/download
+https://fetchrobotics.com/
+
+VC 
+=============
+robotics - labor shortage - jobs that lack ppl
+http://starsky.io/
+
+Andy Rubin (Playground VC)
+=============
+amazon warehouse person - go to this place, get this item, place it here
+http://playground.global/fund/investments
+much easier to share knowledge between robots --> there might be a platform 
+cassie - "why wouldn't we want to add legs to everything?"
+
+From a lab to term sheet
+=============
+http://www.willowgarage.com/
+Kuri - entertainment bot
+I think that studying cocroaches were super popular, were because we could just go to the basement and get them
+
+Claire Delaunay (Nvidia)
+=============
+Really easy to think of robotics in a single aspect, e.g. mechantronics, CV, planning, but important to be a generalist
+ISAAC LAB - simulator
+
+Chris Urmson (Aurora)
+=============
+Self-driving cars - hardware + software + data (e.g. maps)
+Voyage's open source autonomous car program - https://oas.voyage.auto/
+How does it feel to be sued by Elon Musk? Well, we had a new company for 3 weeks. Then a reporter called me and said "what do you think about the law suit?"
+
+Dennis Hong (UCLA Romela)
+=============
+NABi - humanoid
+Alphred - 4 legs
+BEAR
+
+Homayoon Kazerooni
+=============
+devices that reduce risk of injuries and makes humans stronger (for construction sites)
+low cost
+0 hinderance to movements
+habilitations - 
+
+
+
+
+
+
+
